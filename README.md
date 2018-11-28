@@ -1,5 +1,3 @@
-# gaussJordan
-
 # OpenGL by Santuy Original
 
 This program shows and does some of matrix transformation in 2 dimensional space.
